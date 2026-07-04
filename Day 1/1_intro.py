@@ -1,0 +1,4 @@
+print("Hello i am mohammad saqib\n I am a software engineer student of akhilesh das gupta institute of technology\n I am learning python programming language for data science and machine learning\n I am a student of computer science and engineering", 'hello', '''hello''', """Hello""", "There are four ways to write a string in python\n1. Single quotes\n2. Double quotes\n3. Triple single quotes\n4. Triple double quotes ")
+print("single and double quotes can be used interchangeably in python but triple quotes are used for multi-line strings and docstrings")
+print('i am "saqib')
+print("i am 'saqib")
