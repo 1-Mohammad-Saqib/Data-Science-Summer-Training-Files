@@ -1,0 +1,56 @@
+{
+  "name": "Saqib Premium Portfolio Theme",
+  "dataColors": [
+    "#2563EB",
+    "#14B8A6",
+    "#16A34A",
+    "#F59E0B",
+    "#DC2626",
+    "#7C3AED",
+    "#06B6D4",
+    "#64748B"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#111827",
+  "tableAccent": "#2563EB",
+  "good": "#16A34A",
+  "neutral": "#F59E0B",
+  "bad": "#DC2626",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 14,
+            "color": {
+              "solid": {
+                "color": "#111827"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E5E7EB"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
